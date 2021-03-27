@@ -145,4 +145,4 @@ async def playing(ctx):
 fileremover()
 Thread=threading.Thread(target=download)
 Thread.start()
-client.run('ODIzNTAzMDE5NTIxNDc0NTcx.YFhw8w.Z6F4O5ljG82E0xSDJEGcxnZtz9k')
+client.run(YOURDISCORDTOKEN)
